@@ -1,4 +1,5 @@
 World Layoffs Data Analysis (SQL)
+
 This repository contains a SQL-based project focused on cleaning and performing exploratory data analysis (EDA) on a dataset of company layoffs. The aim of this project is to demonstrate proficiency in SQL for data manipulation, cleaning, and the identification of significant trends and patterns within a real-world dataset.
 
 Project Summary
